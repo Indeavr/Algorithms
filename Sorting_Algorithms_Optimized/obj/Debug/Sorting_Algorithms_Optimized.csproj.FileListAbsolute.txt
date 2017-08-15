@@ -1,0 +1,5 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Sorting_Algorithms_Optimized\bin\Debug\Sorting_Algorithms_Optimized.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Sorting_Algorithms_Optimized\bin\Debug\Sorting_Algorithms_Optimized.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Sorting_Algorithms_Optimized\bin\Debug\Sorting_Algorithms_Optimized.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Sorting_Algorithms_Optimized\obj\Debug\Sorting_Algorithms_Optimized.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Sorting_Algorithms_Optimized\obj\Debug\Sorting_Algorithms_Optimized.pdb

@@ -1,0 +1,6 @@
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\bin\Debug\Sorting.exe.config
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\bin\Debug\Sorting.exe
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\bin\Debug\Sorting.pdb
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\obj\Debug\Sorting.exe
+D:\Users\Martin\Desktop\alpha-master-2108c262fd098178be6a91a31253de5e31ac4112\C#-DSA\04. Sorting-Algorithms\live-demos\Sorting\obj\Debug\Sorting.pdb

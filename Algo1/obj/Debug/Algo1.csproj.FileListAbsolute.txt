@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\bin\Debug\Algo1.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\bin\Debug\Algo1.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\bin\Debug\Algo1.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\obj\Debug\Algo1.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\obj\Debug\Algo1.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algo1\obj\Debug\Algo1.pdb

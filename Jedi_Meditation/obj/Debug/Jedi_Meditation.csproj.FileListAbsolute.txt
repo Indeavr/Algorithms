@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\obj\Debug\Jedi_Meditation.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\bin\Debug\Jedi_Meditation.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\bin\Debug\Jedi_Meditation.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\bin\Debug\Jedi_Meditation.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\obj\Debug\Jedi_Meditation.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Jedi_Meditation\obj\Debug\Jedi_Meditation.pdb

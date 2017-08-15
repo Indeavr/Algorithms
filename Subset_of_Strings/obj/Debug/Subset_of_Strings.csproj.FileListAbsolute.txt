@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\bin\Debug\Subset_of_Strings.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\bin\Debug\Subset_of_Strings.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\bin\Debug\Subset_of_Strings.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\obj\Debug\Subset_of_Strings.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\obj\Debug\Subset_of_Strings.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Subset_of_Strings\obj\Debug\Subset_of_Strings.pdb

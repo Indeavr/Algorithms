@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\bin\Debug\01.Nested_Loops.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\bin\Debug\01.Nested_Loops.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\bin\Debug\01.Nested_Loops.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\obj\Debug\01.Nested_Loops.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\obj\Debug\01.Nested_Loops.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\01.Nested_Loops\obj\Debug\01.Nested_Loops.pdb

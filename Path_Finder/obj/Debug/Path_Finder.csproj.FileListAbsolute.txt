@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\bin\Debug\Path_Finder.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\bin\Debug\Path_Finder.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\bin\Debug\Path_Finder.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\obj\Debug\Path_Finder.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\obj\Debug\Path_Finder.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Path_Finder\obj\Debug\Path_Finder.pdb

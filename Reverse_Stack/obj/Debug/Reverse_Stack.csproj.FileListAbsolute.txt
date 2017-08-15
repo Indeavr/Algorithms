@@ -1,0 +1,5 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Reverse_Stack\bin\Debug\Reverse_Stack.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Reverse_Stack\bin\Debug\Reverse_Stack.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Reverse_Stack\bin\Debug\Reverse_Stack.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Reverse_Stack\obj\Debug\Reverse_Stack.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Reverse_Stack\obj\Debug\Reverse_Stack.pdb

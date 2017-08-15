@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\bin\Debug\Niki's Game.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\bin\Debug\Niki's Game.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\bin\Debug\Niki's Game.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\obj\Debug\Niki's Game.csprojResolveAssemblyReference.cache
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\obj\Debug\Niki's Game.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Niki's Game\obj\Debug\Niki's Game.pdb

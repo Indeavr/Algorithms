@@ -1,0 +1,5 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Majorant\bin\Debug\Majorant.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Majorant\bin\Debug\Majorant.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Majorant\bin\Debug\Majorant.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Majorant\obj\Debug\Majorant.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Majorant\obj\Debug\Majorant.pdb

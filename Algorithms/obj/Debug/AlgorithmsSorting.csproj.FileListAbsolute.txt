@@ -1,0 +1,6 @@
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\bin\Debug\Algorithms.exe.config
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\bin\Debug\Algorithms.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\bin\Debug\Algorithms.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\obj\Debug\Algorithms.exe
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\obj\Debug\Algorithms.pdb
+D:\Martin\Programming\DSA\DSA_and_Recursion\Algorithms\obj\Debug\AlgorithmsSorting.csprojResolveAssemblyReference.cache
